@@ -29,7 +29,8 @@ Make sure you have Python 3.x installed. Use pip to install the necessary packag
       requests==2.28
 2. Django Project Setup
 Clone the repository:
-    git clone https://github.com/yourusername/holiday-management.git
+    git clone https://github.com/soorajdevil/Holiday-Management-Application.git
+
     cd holiday-management
 3.Create and activate a virtual environment
 4.Set up the Django project and install dependencies:
